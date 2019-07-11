@@ -1,7 +1,8 @@
 # Biomedical-Word-Embeddings
-Generate word embeddings in the biomedical domain using Fasttext libraries, NLTK, Pubmed Database
+Pre Trained word embeddings from Pubmed and MIMIC data for the biomedical domain using Fasttext libraries, NLTK.
 
-Initialize.sh- Download Pubmed data files
 
-NLTK_pubmed.py || pubmed_abstracts.R- Pubmed data pre-processing
+1) Initialize.sh- Download Pubmed data files
+
+2) NLTK_pubmed.py || pubmed_abstracts.R- Pubmed data pre-processing
 
